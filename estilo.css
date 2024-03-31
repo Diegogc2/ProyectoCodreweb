@@ -6,49 +6,7 @@
 }
 html{
     scroll-behavior: smooth;
-}
 
-header{
-    background-color: #ffffff;
-    height: 80px;
-    font-size: 25px;
-    font-family:Verdana, Geneva, Tahoma, sans-serif;
-    padding: 20px;
-    font-style: bold;
-}
-#barraindex{
-    margin-top: 15px;
-    border-top: #19a0df solid 3px;
-}
-
-#logo{
-    width: 150px;
-    float: left;
-    float: top;
-    margin-top: 0;
-}
-.barra{
-    float: right
-}
-.barra ul li{
-    list-style: none;
-    display: inline-block;
-    margin-top: 10px;
-
-}
-.barra a{
-    text-decoration: none;
-    color: #030305;
-}
-.barra :hover{
-    color:rgba(4, 50, 255, 0.4)
-}
-.imageninicio{
-    height: 100vh;
-    width: 100%;
-    background-image: url(./Media/imagen\ inicio\ 2.png);
-    background-size: cover;
-    background-position: center;
 }
 footer{
     background-color: rgb(255, 255, 255);
@@ -83,69 +41,7 @@ footer p{
     border-radius: 50%;
     
 }
-p{
-    margin-top: 20px;
-}
-/*BUCEO*/
 
-#cursoedit{
-    margin-top: 15px;
-    border-top: #19a0df solid 3px;
-}
-.fotobuceo{
-    background-image: url(./Media/diver-1867538_1920.jpg);
-    background-position: center;
-    width: 100%;
-}
-.cajonbuceo{
-    border: #19a0df solid 5px;
-    width: 32%;
-    height: 600px;
-    margin: 10px;
-    padding: 30px;
-    margin-top: 40px;
-    border-radius: 10%; 
-    float:left;
-    margin-left: 200px;
-    text-align: center;
-}
-.cajonbuceo2{
-    border: #19a0df solid 5px;
-    width: 32%;
-    height: 600px;
-    margin: 10px;
-    padding: 30px;
-    margin-top: 40px;
-    border-radius: 10%; 
-    float: right;
-    margin-right: 200px;
-    text-align: center;
-}
-img{
-    width: 100%;
-    margin-top: 22px;  
-}
-
-
-/*CURSO*/
-
-#cursoedit{
-    margin-top: 15px;
-    border-top: #19a0df solid 3px;
-}
-.curso1{
-    border: #19a0df solid 5px;
-    width: 32%;
-    height: 600px;
-    margin: 10px;
-    padding: 30px;
-    margin-top: 40px;
-    float:inline-start;
-    border-radius: 10%;    
-}
-.container{
-    width: 30%
-}
 
 /*CONTACTO*/
 
@@ -155,8 +51,8 @@ img{
 
 .prueba1{
     padding: 2%;
-    margin-top: 10px;
-    border-top: #19a0df solid 3px;
+
+
     color: #fff;
     text-align: center;
     background-position: center;
